@@ -1,7 +1,6 @@
 my_string = input("Input text: ")
-print("Нou have entered the text:", my_string)
-str_length = len(my_string)
-print("String length:", str_length)
+print("You have entered the text:", my_string)
+print("String length:", len(my_string))
 
 print(my_string.upper())
 print(my_string.lower())
